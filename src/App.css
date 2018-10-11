@@ -1,24 +1,30 @@
+
 .App {
   text-align: center;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 40s linear;
-  height: 90px;
+body {
+  background-color: #121212;
 }
 
-.App-logo-speed-up {
-  animation: App-logo-spin infinite 1s linear;
-  height: 120px;
+.element {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #DEDA05;
+
 }
 
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
+h2 {
+  text-align: center;
 }
 
+.card {
+  width: 22rem;  
+}
+
+img {
+  max-height: 30rem;
+}
 .App-title {
   font-size: 1.5em;
 }
